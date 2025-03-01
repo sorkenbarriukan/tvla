@@ -2577,6 +2577,10 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8?checkedby:ip
 https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MX" tvg-logo="" group-title="MEXICO",Canal Parlamento del Congreso de Jalisco (720p) [Not 24/7]
 https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Education",XEIPN-TDT
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="MEXICO",XEIPN-TDT
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/xAC6gQO.png" group-title="MEXICO",Canal del Congreso 45.1 (480p) [Not 24/7]
 https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/TtVZR5W.png" group-title="MEXICO",Canal del Congreso 45.2 (480p) [Not 24/7]
